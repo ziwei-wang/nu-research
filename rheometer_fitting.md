@@ -1,3 +1,5 @@
+Fitting a fractional Voigt model [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556381/] to rheometer measured storage and loss moduli. 
+
 ```py
 import numpy as np
 import pandas as pd
